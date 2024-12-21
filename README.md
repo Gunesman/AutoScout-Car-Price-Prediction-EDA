@@ -1,4 +1,3 @@
-# AutoScout-Car-Price-Prediction-EDA
 # AutoScout Car Price Prediction EDA
 
 ## Project Overview
